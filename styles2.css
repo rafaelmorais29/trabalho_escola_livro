@@ -1,0 +1,73 @@
+/* Definição de fonte e cor de fundo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  /* Estilo do cabeçalho principal */
+  h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Estilo dos subtítulos */
+  h2 {
+    color: #555;
+    margin-top: 30px;
+  }
+  
+  /* Estilo do parágrafo principal */
+  p {
+    color: #333;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    margin-top: 10px;
+  }
+  
+  /* Estilo da lista de personagens */
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 20px;
+  }
+  
+  /* Estilo dos itens da lista */
+  li {
+    margin-top: 5px;
+    color: #555;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Estilo do rodapé */
+  footer {
+    text-align: center;
+    color: #777;
+    margin-top: 50px;
+    font-size: 14px;
+  }
+  
+
+.imagem {
+    width: 200px;
+    height: auto;
+    align-self: center;
+
+}
+
+.link__rafilo {
+    text-decoration: none;
+    color: #F0E68C;
+}
+
+.rodape {
+    width: 100%;
+    background: grey;
+    color: #F0E68C;
+    align-items: center;
+    flex: content;
+
+
+}
